@@ -7,3 +7,4 @@
 - Person A
 - Person B
 - Person C
+- Person E
